@@ -27,6 +27,20 @@ The app will be available at: http://127.0.0.1:8000/
 The system uses a Multiclass Decision Forest model, selected for its stable performance and lower misclassification rate 
 compared to other tested algorithms. The model was trained on a prepared dataset of vehicle images, including preprocessing and feature extraction steps.
 
+## Screenshots
+
+| Home | 
+| :---: | 
+| <img src="screenshots/home.png" width="480" alt="Home"/> |
+
+| Result |
+| :---: |
+| <img src="screenshots/result.png" width="480" alt="Result"/> | 
+
+| Stats | 
+| :---: |
+| <img src="screenshots/stats.png" width="480" alt="Stats"/> | 
+
 ## Authors
 Filip Kampić
 
